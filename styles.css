@@ -18,11 +18,6 @@ header img {
   padding: 10px;
 }
 
-.divider {
-  height: 10px;
-  background-color: blue;
-}
-
 .section1 {
   background-image: scr/fon3.jpg;
   background-size: cover;
