@@ -13,28 +13,28 @@ header img {
 }
 
 .marquee {
-  background-color: fon1.jpg;
+  background-color: scr/fon1.jpg;
   color: white;
   padding: 10px;
 }
 
 .section1 {
-  background-image: url(fon2.jpg);
+  background-image: url(scr/fon2.jpg);
   background-size: cover;
 }
 
 .section2 {
-  background-image: url(fon3.jpg);
+  background-image: url(scr/fon3.jpg);
   background-size: cover;
 }
 
 .section3 {
-  background-image: url(fon4.jpg);
+  background-image: url(scr/fon4.jpg);
   background-size: cover;
 }
 
 .footer-content {
-  background-image: url(fon4.jpg);
+  background-image: url(scr/fon4.jpg);
   padding: 10px;
   color: white;
 }
