@@ -64,6 +64,28 @@ aside ul li {
   text-decoration: none;
 }
 
+/* Стили для боковой панели */
+aside {
+  width: 200px;
+  background-color: lightgray;
+  padding: 10px;
+}
+
+aside ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+aside ul li {
+  margin-bottom: 10px;
+}
+
+/* Стили для основного контента */
+.content-section {
+  /* Добавьте стили для основного контента по вашим требованиям */
+}
+
+
 .button:hover {
   background-color: darkgray;
 }
