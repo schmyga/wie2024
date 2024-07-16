@@ -29,7 +29,7 @@
     display: block;
     width: 100%;
     height: 4px;
-    background-color: #fff;
+    background-color: #1dbec0;
     margin-bottom: 6px;
     transition: transform 0.3s ease-in-out;
   }
@@ -57,7 +57,7 @@
   }
 
   .menu a {
-    color: #fff;
+    color: #1dbec0;
     text-decoration: none;
   }
 /* Стили для больших экранов */
