@@ -60,3 +60,41 @@
     color: #fff;
     text-decoration: none;
   }
+/* Стили для больших экранов */
+@media (min-width: 1200px) {
+  .menu-container {
+    width: 250px;
+  }
+}
+
+/* Стили для средних экранов */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .menu-container {
+    width: 180px;
+  }
+}
+
+/* Стили для мобильных устройств */
+@media (max-width: 767px) {
+  .menu-container {
+    width: 100%;
+    height: auto;
+    position: static;
+    transform: none;
+  }
+
+  .menu-toggle {
+    display: none;
+  }
+
+  .menu ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .menu li {
+    margin: 10px;
+  }
+}
+
